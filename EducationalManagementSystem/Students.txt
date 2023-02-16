@@ -1,0 +1,5 @@
+Ahmed-Yaser-1-ahmed2003-11-F:\Software Engineering\mastering c#\practice\EducationalManagementSystem\EducationalManagementSystem\students courses files\1.txt
+Ahmed-Awad-2-ahmed2001-22-F:\Software Engineering\mastering c#\practice\EducationalManagementSystem\EducationalManagementSystem\students courses files\2.txt
+Ahmed-Basser-3-basser2001-33-F:\Software Engineering\mastering c#\practice\EducationalManagementSystem\EducationalManagementSystem\students courses files\3.txt
+islam-mohsen-4-islam2001-44-F:\Software Engineering\mastering c#\practice\EducationalManagementSystem\EducationalManagementSystem\students courses files\4.txt
+yousef-yaser-5-yousef1973-99-F:\Software Engineering\mastering c#\practice\EducationalManagementSystem\EducationalManagementSystem\students courses files\5.txt
