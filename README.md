@@ -28,7 +28,7 @@ Console-App aim to management relations between Doctors , Students and Courses ,
             1 - List of Assignments
             2 - Create Assignment
             3 - View Assignment 
-                  1 - Student Solution for chossen assignment 
+                  1 - Students Solution for choosen assignment 
                   2 - set grades for this assignment 
             4 - Back      
       4 - Log out
